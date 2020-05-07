@@ -17,5 +17,6 @@ end
 row_index += 1 
 
 end 
+return sum
 
 end
